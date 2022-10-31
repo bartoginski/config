@@ -3,9 +3,11 @@ The projets config files
 
 
 ## Eslint React dependencies
-```
+```bash
 $ yarn add -D  eslint eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
+
+```json
 "devDependencies": {
     "eslint": "8.8.0",
     "eslint-config-prettier": "8.3.0",
@@ -23,6 +25,7 @@ $ yarn add -D  eslint eslint-config-prettier eslint-plugin-import eslint-plugin-
   ```
   
   ## Prettier
-  ```
+  
+  ```bash
   $ npm add -D prettier
   ```
